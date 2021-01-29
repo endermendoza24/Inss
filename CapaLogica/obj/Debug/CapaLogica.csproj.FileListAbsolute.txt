@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\CalculadoraMultiple\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\HP\source\repos\CalculadoraMultiple\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\HP\source\repos\CalculadoraMultiple\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CalculadoraMultiple\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CalculadoraMultiple\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\HP\source\repos\CalculadoraMultiple\CapaLogica\obj\Debug\CapaLogica.pdb

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\bin\Debug\CalculadoraPensionINSS.exe.config
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\bin\Debug\CalculadoraPensionINSS.exe
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\bin\Debug\CalculadoraPensionINSS.pdb
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\bin\Debug\CapaLogica.dll
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\bin\Debug\CapaLogica.pdb
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\obj\Debug\CalculadoraPensionINSS.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\obj\Debug\CalculadoraPensionINSS.Form1.resources
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\obj\Debug\CalculadoraPensionINSS.Properties.Resources.resources
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\obj\Debug\CalculadoraPensionINSS.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\obj\Debug\CalculadoraPensionINSS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\obj\Debug\CalculadoraPensionINSS.csproj.CopyComplete
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\obj\Debug\CalculadoraPensionINSS.exe
+C:\Users\HP\source\repos\CalculadoraMultiple\CalculadoraPensionINSS\obj\Debug\CalculadoraPensionINSS.pdb

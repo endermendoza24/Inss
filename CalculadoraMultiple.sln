@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraPensionINSS", "CalculadoraPensionINSS\CalculadoraPensionINSS.csproj", "{4C881DEA-4954-4B14-84E4-9B670363B35D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "CapaLogica\CapaLogica.csproj", "{822961DE-6DC3-4583-A9D6-1D161E1563E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C881DEA-4954-4B14-84E4-9B670363B35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C881DEA-4954-4B14-84E4-9B670363B35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C881DEA-4954-4B14-84E4-9B670363B35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C881DEA-4954-4B14-84E4-9B670363B35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{822961DE-6DC3-4583-A9D6-1D161E1563E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822961DE-6DC3-4583-A9D6-1D161E1563E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822961DE-6DC3-4583-A9D6-1D161E1563E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822961DE-6DC3-4583-A9D6-1D161E1563E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {015DA7C3-C645-4D80-A275-2E7209EC8272}
+	EndGlobalSection
+EndGlobal
